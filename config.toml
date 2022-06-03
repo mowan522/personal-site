@@ -1,4 +1,6 @@
 baseURL = 'http://example.org/'
+relativeURLs=true
+uglyURLs=true
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme="loveit"
