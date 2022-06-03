@@ -3,7 +3,15 @@
         <title>My New Hugo Site</title>
         <link>http://example.org/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 14:40:35 &#43;0900</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>First Post</title>
+    <link>http://example.org/posts/first-post/</link>
+    <pubDate>Fri, 03 Jun 2022 14:40:35 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/posts/first-post/</guid>
+    <description><![CDATA[##test]]></description>
+</item>
+</channel>
 </rss>
